@@ -37,7 +37,7 @@ new Main().run();    }
                 case 3 : showName(persons); break ;
                 case 0 : break  menu;
 
-            } System.out.println("***********************");
+            } System.out.println("**********************");
 
         }  while (m!=0);
 
